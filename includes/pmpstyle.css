@@ -1,0 +1,11 @@
+table {width: 115%; border-collapse: collapse; margin-left:auto; margin-right: auto; table-align: center;}
+table, tr, th, td { border: 2px solid #808080;}
+table td:first-child {
+text-align: center;}
+th {height:50px;}
+header {text-align:center; width:100%;}
+footer {border-top: 5px dotted #808080; text-align:center; margin-top: 12px; padding: 10px;}
+#body {width: 30%; margin-left: auto; margin-right:auto;}
+html {background-color: #f6f0bb;}
+.error {color: red;}
+.message {color: blue;}
